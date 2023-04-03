@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spire.math.algebra_2.10" type="repository">
+    <properties maven-id="org.spire-math:algebra_2.10:0.4.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/algebra_2.10-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
